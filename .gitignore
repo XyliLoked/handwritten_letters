@@ -1,0 +1,23 @@
+# Большие файлы данных
+*.csv
+*.h5
+*.pkl
+*.pth
+*.pt
+
+# Папки
+logs/
+data/
+storage.yandexcloud.net/
+__pycache__/
+.venv/
+venv/
+env/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+*.temp
